@@ -1,5 +1,6 @@
 # Assignment 3: Optimization of a City Transportation Network (Minimum Spanning Tree)
-
+**Name:** Arstanbek Fariza  
+**Group:** SE-2424
 ## 1. Summary of Input Data and Algorithm Results
 
 In this study, four categories of graphs were analyzed: Small, Medium, Large, and Extra-large, varying in the number of vertices and edges to represent different densities. Both **Prim’s** and **Kruskal’s** algorithms were applied to compute the Minimum Spanning Tree (MST). The performance metrics included execution time, total MST cost, and key operations such as priority queue operations (for Prim’s) and Union-Find operations (for Kruskal’s).
